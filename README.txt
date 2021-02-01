@@ -1,0 +1,1 @@
+Si quieres contribuir lee el codigo porque ni yo se que hice.
