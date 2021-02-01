@@ -20,7 +20,7 @@ body{
     padding: 10px;
     background: rgb(26, 214, 167);
 }
-navbar__tittle{
+.navbar__tittle{
     width: 400;
 }
 
